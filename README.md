@@ -6,7 +6,7 @@ My name is Sophie but I'm also known as Lawn M𝑒ower (formerly CosmoCortney).<
 I started hacking games in late 2009 when I got my Action Replay for the GameCube. By modifying offsets and pointer paths of cheat codes I was able to create new ones. A year later I got my USB Gecko to scan and edit the RAM of GameCube and Wii games in real-time to by using a remote debugger. In 2015 I wanted to edit some assembly code of F-Zero GX for more advanced hacks and got into Programming this way! Languages like JavaScript, C++, C# followed the years after.<br>
 After my apprenticeship I worked as a mobile game dev. Currently I'm focused on creating game hacking tools and stuff that makes my life easier.<br>
 This account covers all my game hacking-related stuff. Below you can find my alt account related to the RetroFuturaGUI framework!
-
+<!--
 ### My Projects
 
 #### [MungPlex](https://github.com/CosmoCortney/MungPlex)
@@ -45,7 +45,7 @@ A library for comparing memory dumps<br>
 [![Stars](https://img.shields.io/github/stars/CosmoCortney/MemoryCompare?style=social)](https://github.com/CosmoCortney/MemoryCompare)<br>
 [![Forks](https://img.shields.io/github/forks/CosmoCortney/MemoryCompare?style=social)](https://github.com/CosmoCortney/MemoryCompare)<br>
 ![C++](https://img.shields.io/badge/Language-C%2B%2B,%20CMake-blue)
-
+-->
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmoCortney&repo=MungPlex)](https://github.com/CosmoCortney/MungPlex)
 
