@@ -1,11 +1,13 @@
-## Hi there 
+## Low-level dev, high-level tea enjoyer
 
-### Introduction
+### Hi!
+My name is Sophie, also known online as Lawn M𝑒ower (formerly CosmoCortney).<br>
+I’m a game hacker and software developer with roots in reverse engineering and real-time memory manipulation. My journey began in 2009 with an Action Replay for the GameCube, where I started by tweaking offsets and pointer paths of cheat codes. A year later I advanced to using a USB Gecko to scan and edit RAM in GameCube and Wii games via remote debugging tools. In 2015, I dove into assembly code to create advanced hacks for F-Zero GX, which aroused my interest in programming. Since then, I’ve worked with languages like C++, C#, and JavaScript, building game hacking-related tools and other interesting projects.
+After completing my apprenticeship in software development, I worked as a mobile game dev, gaining industry experience. 
+This GitHub account hosts my game hacking-related projects. For my work on the RetroFuturaGUI framework, check out my alt account below.
 
-My name is Sophie but I'm also known as Lawn M𝑒ower (formerly CosmoCortney).<br>
-I started hacking games in late 2009 when I got my Action Replay for the GameCube. By modifying offsets and pointer paths of cheat codes I was able to create new ones. A year later I got my USB Gecko to scan and edit the RAM of GameCube and Wii games in real-time to by using a remote debugger. In 2015 I wanted to edit some assembly code of F-Zero GX for more advanced hacks and got into Programming this way! Languages like JavaScript, C++, C# followed the years after.<br>
-After my apprenticeship I worked as a mobile game dev. Currently I'm focused on creating game hacking tools and stuff that makes my life easier.<br>
-This account covers all my game hacking-related stuff. Below you can find my alt account related to the RetroFuturaGUI framework!
+
+
 <!--
 ### My Projects
 
@@ -55,54 +57,15 @@ A library for comparing memory dumps<br>
 -->
 ### Skills
 
-#### Programming Languages 
-![cpp](https://progress-bar.xyz/8/?title=C%2B%2B%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![cs](https://progress-bar.xyz/5/?title=C%23%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![js](https://progress-bar.xyz/3/?title=JavaScript%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![lua](https://progress-bar.xyz/2/?title=Lua%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![glsl](https://progress-bar.xyz/3/?title=GLSL%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![ppc](https://progress-bar.xyz/7/?title=PowerPC%20ASM%20&suffix=%2f10&scale=10&width=100)
-<br>
-![x86](https://progress-bar.xyz/4/?title=x86-64%20ASM%20%20&suffix=%2f10&scale=10&width=100)
+#### Programming and Scripting
 
-<!--
-#### IDEs amd Tools
-![vs](https://progress-bar.xyz/8/?title=Visual%20Studio&suffix=%2f10&scale=10&width=100)
-<br>
-![vsc](https://progress-bar.xyz/6/?title=VS%20Code%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![qtc](https://progress-bar.xyz/6/?title=Qt%20Creator%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![unity](https://progress-bar.xyz/5/?title=Unity%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![ghidra](https://progress-bar.xyz/2/?title=Ghidra%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
+| Programming & Scripting | Frameworks, IDEs, Libraries & APIs |
+| --- | --- |
+| ![cpp](https://progress-bar.xyz/8/?title=C%2B%2B%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![cmake](https://progress-bar.xyz/4/?title=CMake%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![cs](https://progress-bar.xyz/5/?title=C%23%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![js](https://progress-bar.xyz/3/?title=JavaScript%20%20&suffix=%2f10&scale=10&width=100) <br> ![lua](https://progress-bar.xyz/2/?title=Lua%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![glsl](https://progress-bar.xyz/3/?title=GLSL%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![ppc](https://progress-bar.xyz/7/?title=PowerPC%20ASM%20&suffix=%2f10&scale=10&width=100) <br> ![x86](https://progress-bar.xyz/4/?title=x86-64%20ASM%20%20&suffix=%2f10&scale=10&width=100) <br> ![sql](https://progress-bar.xyz/7/?title=SQL%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![htmlncss](https://progress-bar.xyz/8/?title=HTML%20%26%20CSS%20%20&suffix=%2f10&scale=10&width=100) |       ![opengl](https://progress-bar.xyz/6/?title=OpenGL%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![qtc](https://progress-bar.xyz/6/?title=Qt%20Creator%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![unity](https://progress-bar.xyz/5/?title=Unity%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![ghidra](https://progress-bar.xyz/2/?title=Ghidra%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![qt](https://progress-bar.xyz/7/?title=Qt%20%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![imgui](https://progress-bar.xyz/7/?title=Dear%20ImGui%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![maui](https://progress-bar.xyz/4/?title=%2eNET%20MAUI%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![qt](https://progress-bar.xyz/7/?title=Qt%20%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![imgui](https://progress-bar.xyz/7/?title=Dear%20ImGui%20%20%20&suffix=%2f10&scale=10&width=100) <br> ![winapi](https://progress-bar.xyz/5/?title=Windows%20API%20%20&suffix=%2f10&scale=10&width=100) |
 
-#### Frameworks and Libraries
-![qt](https://progress-bar.xyz/7/?title=Qt%20%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![boost](https://progress-bar.xyz/4/?title=Boost%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![imgui](https://progress-bar.xyz/7/?title=Dear%20ImGui%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![sol2](https://progress-bar.xyz/3/?title=Sol2%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![maui](https://progress-bar.xyz/4/?title=%2eNET%20MAUI%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
+### My Other Account
 
-#### Build Systems and Scripting
-![cmake](https://progress-bar.xyz/4/?title=CMake%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![sql](https://progress-bar.xyz/8/?title=SQL%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![html](https://progress-bar.xyz/4/?title=HTML%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-![css](https://progress-bar.xyz/4/?title=CSS%20%20%20%20%20%20%20%20%20%20&suffix=%2f10&scale=10&width=100)
-<br>
-
--->
+[RetroFuturaGUI](https://github.com/RetroFuturaGUI)<br>
+<a href="https://github.com/RetroFuturaGUI">
+  <img src="https://avatars.githubusercontent.com/u/208481766?v=4" width="100" height="100" />
+</a>
